@@ -30,3 +30,4 @@ group VS2017
 	nuget Microsoft.TeamFoundationServer.Client ~> 15.0
 	nuget Microsoft.TeamFoundationServer.ExtendedClient ~> 15.0
 	nuget Microsoft.VisualStudio.Setup.Configuration.Interop
+
