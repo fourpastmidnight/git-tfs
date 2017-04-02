@@ -1,0 +1,3 @@
+﻿group VS2017
+Microsoft.TeamFoundationServer.Client
+Microsoft.TeamFoundationServer.ExtendedClient
