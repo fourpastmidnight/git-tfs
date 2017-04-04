@@ -1,4 +1,4 @@
-FRAMEWORK: NET452
+FRAMEWORK: NET462
 NUGET
   remote: https://www.nuget.org/api/v2
     LibGit2Sharp (0.23.1)
@@ -25,7 +25,7 @@ NUGET
     xunit.runner.visualstudio (2.2)
 
 GROUP VS2015
-FRAMEWORK: NET452
+FRAMEWORK: NET462
 NUGET
   remote: https://www.nuget.org/api/v2
     Microsoft.AspNet.WebApi.Client (5.2.3)
@@ -66,7 +66,7 @@ NUGET
     WindowsAzure.ServiceBus (4.0)
 
 GROUP VS2017
-FRAMEWORK: NET452
+FRAMEWORK: NET462
 NUGET
   remote: https://www.nuget.org/api/v2
     Microsoft.AspNet.WebApi.Client (5.2.3)
